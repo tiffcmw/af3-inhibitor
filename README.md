@@ -59,7 +59,7 @@ AlphaFold3.
 ```
 af3-inhibitor/
 ├── code/
-│   ├── code.ipynb        # the entire pipeline, organized by stage (see CLAUDE.md for details)
+│   ├── code.ipynb        # the entire pipeline, organized by stage (see pipeline.md for details)
 │   ├── images/           # figures referenced from the notebook
 │   └── output/           # generated intermediates & results (gitignored, created by running cells)
 └── datasets/
