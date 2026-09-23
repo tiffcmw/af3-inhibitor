@@ -4,3 +4,6 @@ alphafold3/
 alphafold3_database/
 mmseqs/
 code/output
+CLAUDE.md
+code/master_code.py
+software/
